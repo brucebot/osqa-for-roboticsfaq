@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/!svn/ver/513/osqa/trunk/forum/middleware
+END
+request_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/513/osqa/trunk/forum/middleware/request_utils.py
+END
+anon_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/381/osqa/trunk/forum/middleware/anon_user.py
+END
+extended_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/485/osqa/trunk/forum/middleware/extended_user.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/!svn/ver/17/osqa/trunk/forum/middleware/__init__.py
+END
+cancel.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/381/osqa/trunk/forum/middleware/cancel.py
+END

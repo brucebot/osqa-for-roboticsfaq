@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/595/osqa/trunk/forum/skins/default/templates/osqaadmin
+END
+edit_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/!svn/ver/388/osqa/trunk/forum/skins/default/templates/osqaadmin/edit_page.html
+END
+flagged_posts.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/!svn/ver/298/osqa/trunk/forum/skins/default/templates/osqaadmin/flagged_posts.html
+END
+graph.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/254/osqa/trunk/forum/skins/default/templates/osqaadmin/graph.html
+END
+moderation.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/411/osqa/trunk/forum/skins/default/templates/osqaadmin/moderation.html
+END
+nodeman.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/!svn/ver/595/osqa/trunk/forum/skins/default/templates/osqaadmin/nodeman.html
+END
+createuser.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/576/osqa/trunk/forum/skins/default/templates/osqaadmin/createuser.html
+END
+maintenance.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/!svn/ver/289/osqa/trunk/forum/skins/default/templates/osqaadmin/maintenance.html
+END
+static_pages.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/!svn/ver/381/osqa/trunk/forum/skins/default/templates/osqaadmin/static_pages.html
+END
+dashboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/!svn/ver/571/osqa/trunk/forum/skins/default/templates/osqaadmin/dashboard.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/234/osqa/trunk/forum/skins/default/templates/osqaadmin/index.html
+END
+djstyle_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/!svn/ver/576/osqa/trunk/forum/skins/default/templates/osqaadmin/djstyle_base.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/!svn/ver/473/osqa/trunk/forum/skins/default/templates/osqaadmin/base.html
+END
+statistics.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/254/osqa/trunk/forum/skins/default/templates/osqaadmin/statistics.html
+END
+set.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/!svn/ver/389/osqa/trunk/forum/skins/default/templates/osqaadmin/set.html
+END

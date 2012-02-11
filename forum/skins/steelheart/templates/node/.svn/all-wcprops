@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/562/osqa/trunk/forum/skins/default/templates/node
+END
+revision.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/!svn/ver/34/osqa/trunk/forum/skins/default/templates/node/revision.html
+END
+convert_to_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/!svn/ver/315/osqa/trunk/forum/skins/default/templates/node/convert_to_comment.html
+END
+comments.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/!svn/ver/562/osqa/trunk/forum/skins/default/templates/node/comments.html
+END
+flagged_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/!svn/ver/298/osqa/trunk/forum/skins/default/templates/node/flagged_item.html
+END
+contributors_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/!svn/ver/448/osqa/trunk/forum/skins/default/templates/node/contributors_info.html
+END
+post_controls.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/494/osqa/trunk/forum/skins/default/templates/node/post_controls.html
+END
+wiki_symbol.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/!svn/ver/329/osqa/trunk/forum/skins/default/templates/node/wiki_symbol.html
+END
+favorite_mark.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/!svn/ver/34/osqa/trunk/forum/skins/default/templates/node/favorite_mark.html
+END
+accept_button.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/478/osqa/trunk/forum/skins/default/templates/node/accept_button.html
+END
+reviser_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/!svn/ver/165/osqa/trunk/forum/skins/default/templates/node/reviser_info.html
+END
+report.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/320/osqa/trunk/forum/skins/default/templates/node/report.html
+END
+vote_buttons.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/!svn/ver/34/osqa/trunk/forum/skins/default/templates/node/vote_buttons.html
+END

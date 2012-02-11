@@ -1,0 +1,39 @@
+{% extends "base_content.html" %}
+{% load extra_tags ui_registry i18n extra_filters markup %}
+{% block page_center %}
+<div id="wrapper">
+    <div id="room">
+        <div id="CALeft">
+
+            {% block content%}
+            {% endblock%}
+
+        </div>
+        <div id="CARight">
+            <div id="searchBar">
+                <form action="{% url search %}" method="get">
+                <div>
+                <input type="text" id="searchInput" value="{{ keywords }}" name="q" id="keywords" />
+                <input id="searchBtn" type="submit" name="Submit" value="{% trans "search" %}" />
+                </div>
+                <div class="options">
+                <input id="type-question" type="radio" value="question" name="t" 
+                checked="checked" /><label for="type-question">{% trans "questions" %}</label>
+                <input id="type-tag" type="radio" value="tag" name="t" /><label for="type-tag">{% trans "tags" %}</label>
+                <input id="type-user" type="radio" value="user" name="t" /><label for="type-user">{% trans "users" %}</label>
+                </div>
+                </form>	
+            </div>
+            {% block sidebar%}
+            {% endblock%}
+
+        </div>
+        <div id="tail" style="clear:both;">
+            {% block tail %}
+            {% endblock %}
+        </div>
+    </div>
+    <div class="spacer3"></div>
+</div>
+{% endblock %}
+

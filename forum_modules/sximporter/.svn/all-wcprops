@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/547/osqa/trunk/forum_modules/sximporter
+END
+orm.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/!svn/ver/522/osqa/trunk/forum_modules/sximporter/orm.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/407/osqa/trunk/forum_modules/sximporter/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/61/osqa/trunk/forum_modules/sximporter/__init__.py
+END
+importer.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/547/osqa/trunk/forum_modules/sximporter/importer.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/!svn/ver/61/osqa/trunk/forum_modules/sximporter/urls.py
+END

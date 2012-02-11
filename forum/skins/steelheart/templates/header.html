@@ -1,0 +1,30 @@
+<!-- template header.html -->
+{% load extra_tags ui_registry i18n extra_filters markup %}
+<div id="header">
+	<div id="roof">
+		<div id="logo">
+			<a href="{% url index %}">
+				<img src="{{ settings.APP_LOGO }}" title="{% trans "back to home page" %}" alt="{{settings.APP_TITLE}} logo"/>
+			</a>
+		</div>
+	  
+		<div id="top">
+		    {% loadregistry header_links %}{% endloadregistry %}
+		</div>
+    <div id="nav">
+        {% loopregistry page_top_tabs %}{% spaceless %}
+            <a id="nav_{{ tab_name }}"{% ifequal tab tab_name %} class="on"{% endifequal %} href="{{ tab_url }}" ><span class="icon"></span>{{ tab_title }}</a>
+        {% endspaceless %}{% endloopregistry %}
+    </div>
+    <div id="nav_ask_border">
+        <a id="nav_ask" href="{% url ask %}" class="special">{% trans "ASK" %}</a>
+    </div>
+  </div> 
+
+	{% if settings.USE_ANNOUNCEMENT_BAR|or_preview:request %}
+  <div id="announcement">
+      {{ settings.ANNOUNCEMENT_BAR|or_preview:request|markdown:"settingsparser" }}
+  </div>
+  {% endif %}
+</div><!-- #header -->
+<!-- end template header.html -->

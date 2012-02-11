@@ -1,0 +1,98 @@
+10
+
+dir
+554
+http://svn.osqa.net/svnroot/osqa/trunk/forum_modules
+http://svn.osqa.net/svnroot
+
+
+
+2010-07-17T01:54:32.053745Z
+547
+hernani
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+0cfe37f9-358a-4d5e-be75-b63607b5c754
+
+openidauth
+dir
+
+sphinxfulltext
+dir
+
+oauthauth
+dir
+
+__init__.py
+file
+
+
+
+
+2010-08-14T06:40:04.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2010-04-10T04:19:53.735481Z
+17
+hernani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+robotstxt
+dir
+
+default_badges
+dir
+
+recaptcha
+dir
+
+facebookauth
+dir
+
+project_badges
+dir
+
+localauth
+dir
+
+sximporter
+dir
+
+akismet
+dir
+
+pgfulltext
+dir
+

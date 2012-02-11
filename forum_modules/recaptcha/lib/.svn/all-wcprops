@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/17/osqa/trunk/forum_modules/recaptcha/lib
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/17/osqa/trunk/forum_modules/recaptcha/lib/__init__.py
+END
+captcha.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/17/osqa/trunk/forum_modules/recaptcha/lib/captcha.py
+END

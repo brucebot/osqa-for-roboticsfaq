@@ -1,0 +1,7 @@
+#!/bin/sh
+#PYTHONPATH=/path/to/dir_above_osqa_site
+PYTHONPATH=/home2/robotinc/public_html/roboticsfaq
+export PYTHONPATH
+PROJECT_ROOT=$PYTHONPATH
+/home2/robotinc/.local/lib/python2.6 $PROJECT_ROOT/mange.py send_email_alerts
+#/path/to/python $PROJECT_ROOT/manage.py send_email_alerts

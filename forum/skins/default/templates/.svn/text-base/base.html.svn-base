@@ -1,0 +1,23 @@
+{% extends "base_content.html" %}
+{% block page_center %}
+<div id="wrapper">
+    <div id="room">
+        <div id="CALeft">
+            {% block content%}
+            {% endblock%}
+
+        </div>
+        <div id="CARight">
+            {% block sidebar%}
+            {% endblock%}
+
+        </div>
+        <div id="tail" style="clear:both;">
+            {% block tail %}
+            {% endblock %}
+        </div>
+    </div>
+    <div class="spacer3"></div>
+</div>
+{% endblock %}
+
