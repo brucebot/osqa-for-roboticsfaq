@@ -1,0 +1,28 @@
+这是机器人技术问答中心roboticsfaq.com网站的源代码
+
+前言
+
+本站使用osqa作为本台搭建，主题由@shellex制作，部分中文翻译由@brucebot完成，不过目前设置界面为英文。
+
+平台信息
+osqa(pythong + django)
+Mysql 数据库
+
+数据库下载地址：http://brucebot.com/wp-content/uploads/roboticsfaq.com.data.tar.gz
+
+网站历史
+
+2010.08.28
+    在@tulatrix的帮助下在杭州杭大路SUBWAY开始搭建并运行,主机为购买的vpsee.com的vps
+2010.09.07
+    @brucebot开始汉化部分界面
+2010.09.28
+    由@shellex制作的新主题开始启用
+2011.08.26
+    roboticsfaq.com搬迁至hostmonster
+2012.02.10
+    roboticsfaq.com关闭运营，详见：http://www.brucebot.com/2012/02/close-roboticsfaq-com-2/
+2012.02.11
+    @brucebot将数据放置github,开源
+
+2012.02.11 brucebot
