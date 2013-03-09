@@ -1,3 +1,6 @@
+
+Update: roboticsFAQ.com已经重新启用，使用新的ROR平台，访问[roboticsfaq.com](http://roboticsfaq.com)
+
 这是机器人技术问答中心roboticsfaq.com网站的源代码
 
 前言
@@ -8,7 +11,6 @@
 osqa(pythong + django)
 Mysql 数据库
 
-数据库下载地址：http://dl.dropbox.com/u/305093/roboticsfaq.com.data.tar.gz
 
 网站历史
 
